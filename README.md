@@ -4,7 +4,7 @@
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+> *What I cannot create, I do not understand 
 
 It's a great way to learn.
 
